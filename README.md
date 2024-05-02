@@ -35,4 +35,4 @@ This is a web application for managing real estate properties. Users can add new
 - Images uploaded for properties are pulled from online
 
 
-The people who contributed to this project was Anemi Breytenbach, Sean Dubbelman, Ruan Klopper and Phillipus Van Der Hoven.
+## The people who contributed to this project was Anemi Breytenbach, Sean Dubbelman, Ruan Klopper and Phillipus Van Der Hoven.
