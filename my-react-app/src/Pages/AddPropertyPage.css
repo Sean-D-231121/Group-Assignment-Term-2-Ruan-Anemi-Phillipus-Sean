@@ -1,0 +1,57 @@
+.form-container {
+  max-width: 600px; 
+  margin: 0 auto;
+  text-align: center; 
+}
+
+.property-form {
+  background-color: #8cd8ed; 
+  padding: 30px; 
+  border-radius: 15px; 
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="number"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  background-color: #18b7e3;
+  color: white;
+}
+
+button:hover {
+  background-color: #0d8caf;
+}
+
+
+.image-preview-container {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.image-preview {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}

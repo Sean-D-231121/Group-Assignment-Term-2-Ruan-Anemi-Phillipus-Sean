@@ -21,10 +21,10 @@ function MySideNav() {
                     <NavText>Home</NavText>
                 </NavItem>
                 <NavItem eventKey="add">
-                    <NavText>Comparison</NavText>
+                    <NavText>Add Properties</NavText>
                 </NavItem>
                 <NavItem eventKey="details">
-                    <NavText>Timeline</NavText>
+                    <NavText>Property Details</NavText>
                 </NavItem>
             </SideNav.Nav>
         </SideNav>

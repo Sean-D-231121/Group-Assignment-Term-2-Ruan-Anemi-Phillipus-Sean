@@ -1,5 +1,8 @@
 body{
-  background-color: #61dafb;
+  background-color: #e3f5fa;
+  overflow-y: auto;
+  font-family: 'Solway', sans-serif;
+  font-weight: 400;
 }
 a {
   text-decoration: none;
@@ -46,10 +49,13 @@ a {
 }
 
 
-
 .mysidenav {
   text-align: center;
-  background-color: #5ca1ff !important;
+  background-color: #29a5c7 !important;
   font-weight: 500;
-  height: 3700px;
+  height: 100%;
+}
+
+.marginall {
+  margin-left: 15vh;
 }

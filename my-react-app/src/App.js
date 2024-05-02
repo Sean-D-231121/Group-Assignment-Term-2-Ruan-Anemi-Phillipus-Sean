@@ -12,12 +12,16 @@ function App() {
   return (
     <Router >
       <Navbar/>
+      <div className='marginall'>
       <Routes>
         <Route path="/home" element={<Home/>} />
         <Route path="/add" element={<AddPropertyPage/>} />
         <Route path="/details" element={<PropertyDetailsPage/>} />
       </Routes>
+      </div>
+      
     </Router>
+  
   );
 }
 

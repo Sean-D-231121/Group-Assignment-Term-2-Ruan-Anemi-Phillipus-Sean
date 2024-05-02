@@ -1,0 +1,23 @@
+body {
+    margin-top: 5vh;
+}
+
+
+.housecards{
+    width: 20vh;
+    height: 35vh;
+    background-color: #61dafb;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 5px 0px 10px rgba(0, 0, 0, 0.7);
+    float: right;
+    margin-right: 5vh;
+    margin-top: 5vh;
+}
+
+.searchput{
+    float: right;
+    margin-right: 5vh;
+    width: 170vh;
+
+}

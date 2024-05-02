@@ -1,0 +1,10 @@
+.property-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.property-image-container {
+  display: flex;
+  align-items: center;
+}
+  
