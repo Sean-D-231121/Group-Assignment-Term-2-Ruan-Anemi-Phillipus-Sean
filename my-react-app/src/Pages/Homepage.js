@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import PropertyCard from '../Romponents/PropertyCard';
+import PropertyCard from '../Components/PropertyCard';
 import NavBar from '../Components/NavBar'
 import './Homepage.css'
 const HomePage = () => {
@@ -41,7 +41,7 @@ const HomePage = () => {
       <div className="row row-cols-1 row-cols-md-3 g-4">
         {properties.map(property => (
           <div key={properties.id} className="col">
-            <PropertyCard propertyName={property.name} location={property.location}/>
+            <PropertyCard propertyName={property.name} location={property.location} />
           </div>
         ))}
       </div>
