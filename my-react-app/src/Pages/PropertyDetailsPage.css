@@ -1,0 +1,16 @@
+.pdpSearchBox{
+    width: 100%;
+    padding: 20px;
+    background-color: blue;
+    margin: 0 auto;
+}
+
+.pdpSearchTopContnent{
+    width: 90%;
+    height: 70px;
+    background-color: white;
+}
+
+.pdpSearchContnent{
+    width: 100%;
+}
